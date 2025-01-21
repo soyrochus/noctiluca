@@ -2,6 +2,8 @@
 
 **Noctiluca** is a lightweight, mobile-first presentation system built with [**FastAPI**](https://fastapi.tiangolo.com/) and [**NiceGUI**](https://nicegui.io/). It allows multiple mobile clients to connect and view a synchronized presentation, controlled by a designated presenter. The system ensures real-time updates across all connected devices.
 
+![Noctiluca is a lightweight, mobile-first presentation system ](images/noctiluca-bw-medium.png)
+
 NOTE: this is a test project to experiment with the following topics:
  
  - The [Astral tool chain (uv and ruff)](https://astral.sh/)
