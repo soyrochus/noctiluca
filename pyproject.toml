@@ -1,7 +1,7 @@
 [project]
 name = "noctiluca"
 version = "0.1.0"
-description = "Noctiluca – A lightweight, mobile-first presentation system using FastAPI and NiceGUI, enabling real-time synchronization between presenter and audience devices."
+description = "Noctiluca – A lightweight, mobile-first presentation system, enabling real-time synchronization between presenter and audience devices."
 readme = "README.md"
 requires-python = ">=3.12"
 license = { file = "MIT" }

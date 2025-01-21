@@ -11,3 +11,5 @@ wheels/
 
 # project
 __attic__/
+.env
+.aider*
