@@ -1,0 +1,19 @@
+[project]
+name = "noctiluca"
+version = "0.1.0"
+description = "Noctiluca – A lightweight, mobile-first presentation system using FastAPI and NiceGUI, enabling real-time synchronization between presenter and audience devices."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { file = "MIT" }
+dependencies = [
+    "fastapi>=0.115.6",
+    "nicegui>=2.10.1",
+    "pydantic>=2.10.5",
+    "uvicorn>=0.34.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.9.2",
+]
+
