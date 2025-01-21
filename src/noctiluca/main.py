@@ -1,5 +1,7 @@
 from fastapi import FastAPI, WebSocket
 from nicegui import ui
+from noctiluca import ui as noctiluca_ui
+from noctiluca import websockets
 
 app = FastAPI()
 
